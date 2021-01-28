@@ -1,0 +1,4 @@
+C:\Users\Лёлька\source\repos\Новая папка\CodeWars\Kata38\obj\Debug\netcoreapp3.1\Kata38.csprojAssemblyReference.cache
+C:\Users\Лёлька\source\repos\Новая папка\CodeWars\Kata38\obj\Debug\netcoreapp3.1\Kata38.csproj.CoreCompileInputs.cache
+C:\Users\Лёлька\source\repos\Новая папка\CodeWars\Kata38\obj\Debug\netcoreapp3.1\Kata38.AssemblyInfoInputs.cache
+C:\Users\Лёлька\source\repos\Новая папка\CodeWars\Kata38\obj\Debug\netcoreapp3.1\Kata38.AssemblyInfo.cs
