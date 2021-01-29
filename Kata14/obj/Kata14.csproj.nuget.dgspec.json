@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Лёлька\\source\\repos\\Новая папка\\CodeWars\\Kata14\\Kata14.csproj": {}
+    "D:\\Git\\CodeWars\\Kata14\\Kata14.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Лёлька\\source\\repos\\Новая папка\\CodeWars\\Kata14\\Kata14.csproj": {
+    "D:\\Git\\CodeWars\\Kata14\\Kata14.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Лёлька\\source\\repos\\Новая папка\\CodeWars\\Kata14\\Kata14.csproj",
+        "projectUniqueName": "D:\\Git\\CodeWars\\Kata14\\Kata14.csproj",
         "projectName": "Kata14",
-        "projectPath": "C:\\Users\\Лёлька\\source\\repos\\Новая папка\\CodeWars\\Kata14\\Kata14.csproj",
+        "projectPath": "D:\\Git\\CodeWars\\Kata14\\Kata14.csproj",
         "packagesPath": "C:\\Users\\Лёлька\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Лёлька\\source\\repos\\Новая папка\\CodeWars\\Kata14\\obj\\",
+        "outputPath": "D:\\Git\\CodeWars\\Kata14\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Mso/ocSnb02fo1ObaJrrpSKBosTt7j1P0R9H6xbZDoa5BduVIGe2KlXu7/hSEUSXjWOuLp/fPwFR6/21pCKv+A==",
+  "dgSpecHash": "Dk9i41sDfkz5Wqyfyzg3sTWmg7EPlOJ2E9T1BYeLE0H6WTh5lFyqzoL8F8yEvvlo7PE7VlXusVuFdHN9FbpsYA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Лёлька\\source\\repos\\Новая папка\\CodeWars\\Kata9\\Kata9.csproj",
+  "projectFilePath": "D:\\Git\\CodeWars\\Kata9\\Kata9.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Лёлька\\.nuget\\packages\\microsoft.codecoverage\\16.4.0\\microsoft.codecoverage.16.4.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
