@@ -4583,11 +4583,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Лёлька\\source\\repos\\Новая папка\\CodeWars\\Kata6\\Kata6.csproj",
+      "projectUniqueName": "D:\\Git\\CodeWars\\Kata6\\Kata6.csproj",
       "projectName": "Kata6",
-      "projectPath": "C:\\Users\\Лёлька\\source\\repos\\Новая папка\\CodeWars\\Kata6\\Kata6.csproj",
+      "projectPath": "D:\\Git\\CodeWars\\Kata6\\Kata6.csproj",
       "packagesPath": "C:\\Users\\Лёлька\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Лёлька\\source\\repos\\Новая папка\\CodeWars\\Kata6\\obj\\",
+      "outputPath": "D:\\Git\\CodeWars\\Kata6\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
